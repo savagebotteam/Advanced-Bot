@@ -14,9 +14,9 @@ module.exports = {
         }]
     },
     discord: {
-        token: "",
-        prefix: "a!",
-        owners: ["396096412116320258", "203104843479515136"]
+        token: "NTgzOTEwNDMzMzAwMTUyMzMx.XPDPBQ.2puUhHV9K83h25c3IDNC0rAFwx0",
+        prefix: "pb!",
+        owners: ["486817898078404621", "414622975598395398"]
     },
     database: "mongouri"
 }
