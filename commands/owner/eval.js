@@ -8,8 +8,8 @@ module.exports = {
         aliases: ["e"],
         guildOnly: false,
         ownerOnly: true,
-        userPerms: [MANAGE_SERVER],
-        clientPerms: [ADMINSTRATOR]
+        userPerms: [],
+        clientPerms: []
     },
     run: async (client, message, args) => {
         let toEval = args.join(" ");
